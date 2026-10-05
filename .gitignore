@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Misc cleanup files
+cleanup_renamed.py
+organize_assignments.py
+c:/cleanup_renamed.py
+c:/organize_assignments.py
